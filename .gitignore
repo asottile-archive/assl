@@ -11,3 +11,6 @@
 *.lai
 *.la
 *.a
+
+# Our compiled output
+*.out
