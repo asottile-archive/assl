@@ -1,4 +1,3 @@
-
 CC=g++
 CFLAGS=-Wall -Wextra -Werror -std\=c++11 -I ./assl/
 LFLAGS=-pthread -ldl
